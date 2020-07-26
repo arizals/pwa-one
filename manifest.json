@@ -1,0 +1,20 @@
+{
+    "name": "Gojek Web App",
+    "short_name": "Gojek Web",
+    "description": "Aplikasi PWA Gojek",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#81c784",
+    "theme_color": "#81c784",
+    "icons": [{
+            "src": "gojek-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "gojek-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
